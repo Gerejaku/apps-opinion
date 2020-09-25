@@ -16,7 +16,7 @@ Please do not share any other violence topics such as : Drug , Racism , and othe
 
 - Clone this repo 
 - Make a new files inside **ideas** directory
-- The filename format is yourusername_ideas.md , Example : oceanphoenix.md <br>
+- The filename format is yourusername_ideas.md , Example : oceanphoenix_ideas.md <br>
 
 **Please note , you can use any programming language to share your ideas , console log or anything , or just plain Markdown**
 
