@@ -14,7 +14,8 @@ Please do not share any other violence topics such as : Drug , Racism , and othe
 
 # Guide to start 
 
-- Clone this repo 
+- Fork this repo 
+- Clone your forking repository
 - Make a new files inside **ideas** directory
 - The filename format is yourusername_ideas.md , Example : oceanphoenix_ideas.md <br>
 
